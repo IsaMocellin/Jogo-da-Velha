@@ -6,7 +6,7 @@ Este é um projeto de recriação do clássico jogo da velha desenvolvido utiliz
 
 - Jogo da velha para dois jogadores.
 - Mudança de cor do tabuleiro com a vitória.
-- Reinício automático do jogo após a vitória de um dos jogadores.
+- Reinício ao clicar no botão após a vitória de um dos jogadores.
 
 ## 🕹️ Como Jogar
 
@@ -18,7 +18,7 @@ Este é um projeto de recriação do clássico jogo da velha desenvolvido utiliz
 
 4. Quando um jogador vence, o tabuleiro muda de cor para indicar a vitória.
 
-5. O jogo reinicia automaticamente após a vitória de um dos jogadores.
+5. Ao clicar no botão de Reiniciar o jogo reinicia.
 
 ## 🎉 Demonstração
 
